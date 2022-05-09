@@ -1,13 +1,6 @@
 package com.company;
 
 public class Transmission {
-    /*
-    5. Создать класс `Transmission`.
-             6. В класс `Transmission` добавить:
-             - Поля: `driveType (char[])`, `gearboxType (char[])`.
-             - Конструктор, который принимает все свойства класса.
-    -  `getter`-ы для всех полей.
-             */
      char[] driveType;
      char[] gearboxType;
 

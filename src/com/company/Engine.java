@@ -1,14 +1,6 @@
 package com.company;
 
 public class Engine {
-    /*
-     3. Создать класс `Engine`.
-             4. В класс `Engine` добавить:
-             -  Поля: `fuel (char[])`, `coolingMethod (char[])`, `cylindersAmount (int)`,
-             `cylindersArrangement (char[])`, `combustibleMixtureIgnition (char[])`.
-             -  Конструктор, который принимает все свойства класса.
-    -  `getter`-ы для всех полей.
-             */
     char[] fuel;
     char[] coolingMethod;
     int cylindersAmount;
