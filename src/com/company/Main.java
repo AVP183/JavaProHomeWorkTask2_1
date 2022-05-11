@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.Arrays;
-
+//9. В `main` создать объект класса `Car` при этом необходимо создать объекты всех полей, из которых состоит `Car`.
 public class Main {
 
     public static void main(String[] args) {

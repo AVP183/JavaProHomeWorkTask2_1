@@ -1,4 +1,9 @@
 package com.company;
+//1. Создать класс `Body`.
+//2. В класс `Body` добавить:
+//   -  Поля: `type (char[])`, `material (char[])`.
+//   -  Конструктор, который принимает все свойства класса.
+//   -  `getter`-ы для всех полей.
 
 public class Body {
     char[] type;

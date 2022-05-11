@@ -1,4 +1,9 @@
 package com.company;
+//7. Создать класс `Car`.
+//8. В класс `Car` добавить:
+//   - Поля: `body (Body)`, `engine (Engine)`, `transmission (Transmission)`.
+//   - Конструктор, который принимает все свойства класса.
+//   -  `getter`-ы для всех полей.
 
 public class Car {
     Body body;
